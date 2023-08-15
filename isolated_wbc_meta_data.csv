@@ -1,0 +1,42 @@
+Sample_id,Cell_type
+neutrophil donor-a,Neutrophil
+neutrophil donor-b,Neutrophil
+neutrophil donor-c,Neutrophil
+neutrophil donor-d,Neutrophil
+neutrophil donor-e,Neutrophil
+neutrophil donor-f,Neutrophil
+memory B-cell donor-a,Lymphocyte
+memory B-cell donor-b,Lymphocyte
+memory B-cell donor-c,Lymphocyte
+memory B-cell donor-d,Lymphocyte
+memory B-cell donor-e,Lymphocyte
+memory B-cell donor-f,Lymphocyte
+memory CD4 T-cell donor-a,Lymphocyte
+memory CD4 T-cell donor-b,Lymphocyte
+memory CD4 T-cell donor-c,Lymphocyte
+memory CD4 T-cell donor-d,Lymphocyte
+memory CD4 T-cell donor-e,Lymphocyte
+memory CD4 T-cell donor-f,Lymphocyte
+memory CD8 T-cell donor-a,Lymphocyte
+memory CD8 T-cell donor-b,Lymphocyte
+memory CD8 T-cell donor-c,Lymphocyte
+memory CD8 T-cell donor-d,Lymphocyte
+memory CD8 T-cell donor-f,Lymphocyte
+naive B-cell donor-a,Lymphocyte
+naive B-cell donor-b,Lymphocyte
+naive B-cell donor-c,Lymphocyte
+naive B-cell donor-d,Lymphocyte
+naive B-cell donor-e,Lymphocyte
+naive B-cell donor-f,Lymphocyte
+naive CD4 T-cell donor-a,Lymphocyte
+naive CD4 T-cell donor-b,Lymphocyte
+naive CD4 T-cell donor-c,Lymphocyte
+naive CD4 T-cell donor-d,Lymphocyte
+naive CD4 T-cell donor-e,Lymphocyte
+naive CD4 T-cell donor-f,Lymphocyte
+naive CD8 T-cell donor-a,Lymphocyte
+naive CD8 T-cell donor-b,Lymphocyte
+naive CD8 T-cell donor-c,Lymphocyte
+naive CD8 T-cell donor-d,Lymphocyte
+naive CD8 T-cell donor-e,Lymphocyte
+naive CD8 T-cell donor-f,Lymphocyte
